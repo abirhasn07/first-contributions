@@ -28,7 +28,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anne-Marie Nnaedozie] (https://github.com/a-nn-t-s)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
 - [embTw] (https://github.com/embTw)
-- [Baby Washbear] (https://github.com/babywashbear)
 - [Koty Stannard](https://github.com/k-stannard)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
@@ -2039,6 +2038,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Kuntal Paul](https://github.com/helplessThor)
+- [Abir Hasan](https://github.com/abirhasn07)
 
 
 <!-- prettier-ignore-end -->
